@@ -1,1 +1,1 @@
-# test
+# What I aimed for this code is to make organizing authorities in the social media management a lot easier. It still has a lot of sides to improve but I think it is pretty useful when it comes to store and organising the mods and their informations.
